@@ -1,6 +1,6 @@
 Hello! I'm Trong-Tin Tran from Vietnam. 
 
-I'm an architect, researcher, and PhD student at National Taiwan University. I'm working on
+I'm an architect, and PhD student at National Taiwan University. I'm working on
 sustainable urban design, building performance simulation, and generative design.
 
 ### 📚 Current Research
