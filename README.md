@@ -8,7 +8,7 @@ for **climate-responsive urban design and generative building
 configuration**, integrating urban planning constraints,
 parametric modeling, simulation, and optimization.
 
-### 🔬 Research Interests
+### Research Interests
 - Generative Urban Design
 - Building Performance Simulation
 - Urban Microclimate
